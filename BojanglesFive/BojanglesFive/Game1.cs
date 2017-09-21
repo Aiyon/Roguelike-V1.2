@@ -70,7 +70,7 @@ namespace Roguelike
         {
             graphics = new GraphicsDeviceManager(this);
             graphics.PreferredBackBufferWidth = 1600; //1600
-            graphics.PreferredBackBufferHeight = 1000; //1000
+            graphics.PreferredBackBufferHeight = 900; //1000
             graphics.ApplyChanges();
 
             Content.RootDirectory = "Content";
@@ -92,7 +92,7 @@ namespace Roguelike
             Tiles = new int[Consts.mapWidth, Consts.mapHeight];
             FoW = new int[Consts.mapWidth, Consts.mapHeight];
             pDist = 5;
-            tileSize = graphics.PreferredBackBufferWidth / (int)vPort.X;
+            tileSize = (graphics.PreferredBackBufferWidth - 250) / (int)vPort.X;
             score = 0;
             fMode = true;
             this.IsMouseVisible = true;
@@ -319,8 +319,10 @@ namespace Roguelike
             }
             else if (currentState == gameState.overworld)
             {
-                spriteBatch.Draw(wall, new Rectangle(0, 0, graphics.PreferredBackBufferWidth, graphics.PreferredBackBufferHeight - tileSize * 3), Color.SeaGreen);
+                //fill viewport with "empty" colour.
+                spriteBatch.Draw(wall, new Rectangle(0, 0, graphics.PreferredBackBufferWidth, tileSize * (int)(vPort.Y-1)), Color.SeaGreen);
 
+                //draw the tiles the player can see.
                 for (int i = 0; i < (int)vPort.X; i++)
                 {
                     for (int j = 0; j < (int)vPort.Y - 1; j++)
@@ -373,6 +375,7 @@ namespace Roguelike
                                 }
                             }
                         }
+                        //fow: 0 = unseen, 1 = fog, 2, visible
                         else if (FoW[iC, jC] == 2 && fMode)
                         {
                             if (Tiles[iC, jC] != -1)
@@ -426,8 +429,8 @@ namespace Roguelike
 //                spriteBatch.Draw(wall, new Rectangle(780, 480, tileSize, tileSize), Color.White);
 
 
-                spriteBatch.DrawString(uiText, "Health: " + player.Health, new Vector2(tileSize / 4, 18*tileSize), Color.White);
-                spriteBatch.DrawString(uiText, "Score: " + score, new Vector2(tileSize / 4, 19*tileSize), Color.White);
+                spriteBatch.DrawString(uiText, "Health: " + player.Health, new Vector2(tileSize / 4, graphics.PreferredBackBufferHeight * 0.875f), Color.White);
+                spriteBatch.DrawString(uiText, "Score: " + score, new Vector2(tileSize / 4, graphics.PreferredBackBufferHeight * 0.925f), Color.White);
 
             }
             else if (currentState == gameState.combat)
