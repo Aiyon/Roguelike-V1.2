@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Barney/Desktop/GamPro/V1.0/V1.2/BojanglesFive/BojanglesFive/Content/Font.spritefont</File>
+    <File>C:/Users/Barney/Desktop/GamPro/V1.0/V1.2/BojanglesFive/BojanglesFive/Content/healthblob.png</File>
+    <File>C:/Users/Barney/Desktop/GamPro/V1.0/V1.2/BojanglesFive/BojanglesFive/Content/RedEnemy.png</File>
+    <File>C:/Users/Barney/Desktop/GamPro/V1.0/V1.2/BojanglesFive/BojanglesFive/Content/GameOver.png</File>
+    <File>C:/Users/Barney/Desktop/GamPro/V1.0/V1.2/BojanglesFive/BojanglesFive/Content/grate.png</File>
+    <File>C:/Users/Barney/Desktop/GamPro/V1.0/V1.2/BojanglesFive/BojanglesFive/Content/stars.jpg</File>
+    <File>C:/Users/Barney/Desktop/GamPro/V1.0/V1.2/BojanglesFive/BojanglesFive/Content/wall.png</File>
+    <File>C:/Users/Barney/Desktop/GamPro/V1.0/V1.2/BojanglesFive/BojanglesFive/Content/Bigfont.spritefont</File>
+    <File>C:/Users/Barney/Desktop/GamPro/V1.0/V1.2/BojanglesFive/BojanglesFive/Content/FoW grey.png</File>
+  </SourceFiles>
+</SourceFileCollection>

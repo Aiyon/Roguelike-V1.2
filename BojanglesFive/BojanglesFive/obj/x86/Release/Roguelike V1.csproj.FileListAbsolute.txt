@@ -1,0 +1,106 @@
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Content\earth.png
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\earth.xnb
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\GameOver.xnb
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\grate.xnb
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\shuttle.xnb
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\stars.xnb
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\wall.xnb
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Font.xnb
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.dll
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.xml
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Roguelike V1.exe
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Roguelike V1.pdb
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Release\Roguelike V1.exe
+F:\GamPro\GamPro\V0.4.1 - Combat Stats & Health Counter\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Release\Roguelike V1.pdb
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Release\Roguelike V1.exe
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Release\Roguelike V1.pdb
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Content\earth.png
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\earth.xnb
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\GameOver.xnb
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\grate.xnb
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\shuttle.xnb
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\stars.xnb
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\wall.xnb
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Font.xnb
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Roguelike V1.exe
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\Roguelike V1.pdb
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.dll
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.xml
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.4.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D9.xml
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\obj\x86\Release\Roguelike V1.exe
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\obj\x86\Release\Roguelike V1.pdb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Content\earth.png
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Content\shuttle.png
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Content\stars.jpg
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\earth.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\shuttle.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Bigfont.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\Font.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\FoW grey.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\GameOver.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\grate.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\healthblob.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\RedEnemy.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\stars.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Content\wall.xnb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Roguelike V1.exe
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\Roguelike V1.pdb
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\MonoGame.Framework.dll
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.MediaFoundation.dll
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.dll
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XAudio2.dll
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D11.dll
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.DXGI.dll
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct2D1.dll
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XInput.dll
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.RawInput.dll
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D9.dll
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\MonoGame.Framework.xml
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.MediaFoundation.xml
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.xml
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XAudio2.xml
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D11.xml
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.DXGI.xml
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct2D1.xml
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.XInput.xml
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.RawInput.xml
+C:\Users\Barney\Desktop\GamPro\GamPro\V1.0 - Postcredits\BojanglesFive\BojanglesFive\bin\Windows\Release\SharpDX.Direct3D9.xml

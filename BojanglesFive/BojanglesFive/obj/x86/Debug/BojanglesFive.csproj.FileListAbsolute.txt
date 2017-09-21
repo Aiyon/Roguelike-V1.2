@@ -1,0 +1,399 @@
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+C:\Users\Barney\Desktop\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+F:\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Barney\Desktop\GamPro\V0.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Barney\Desktop\GamPro\V0.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.2.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.2.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.3 - I can has movement\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\computing\Desktop\V0.3.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.3.2\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.3.3\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.4.0 - Combat\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.4.1\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.exe
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\BojanglesFive.pdb
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.dll
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.dll
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.dll
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\MonoGame.Framework.xml
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.xml
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.XInput.xml
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\obj\x86\Debug\BojanglesFive.csprojResolveAssemblyReference.cache
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\earth.png
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\shuttle.png
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Content\stars.jpg
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\earth.xnb
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\Font.xnb
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\GameOver.xnb
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\grate.xnb
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\shuttle.xnb
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\stars.xnb
+F:\GamPro\GamPro\V0.4.0 - Combat 2.0 (Stats!)\Monono\Monono\BojanglesFive\BojanglesFive\bin\Windows\Debug\Content\wall.xnb
