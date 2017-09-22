@@ -63,6 +63,8 @@ namespace Roguelike
 
         private Player player;
 
+        private float moveCD;
+
         private MapGenV2 level1;
 
         public Game1()
@@ -96,6 +98,7 @@ namespace Roguelike
             score = 0;
             fMode = true;
             this.IsMouseVisible = true;
+            moveCD = 0;
 
             //brain = new Brain();
 
@@ -158,7 +161,7 @@ namespace Roguelike
                     Exit();
 
                 // TODO: Add your update logic here
-                OUInput();
+                OUInput(gameTime);
                 player.Update(gameTime);
 
                 base.Update(gameTime);
@@ -218,11 +221,22 @@ namespace Roguelike
             }
         }
 
-        private void OUInput()  //Input handler for overworld.
+        private void OUInput(GameTime gameTime)  //Input handler for overworld.
         {
             KeyboardState newState = Keyboard.GetState();
 
-            if (newState != oldState)
+            bool movingDown = false;
+            if (newState.IsKeyDown(Keys.W) || newState.IsKeyDown(Keys.A) || newState.IsKeyDown(Keys.S) || newState.IsKeyDown(Keys.D))
+            {
+                if (moveCD <= 0)
+                    movingDown = true;
+                else
+                    moveCD -= gameTime.ElapsedGameTime.Milliseconds;
+            }
+            else
+                moveCD = 0;
+
+            if (newState != oldState || movingDown)
             {
 
                 bool moved = false;
@@ -231,21 +245,25 @@ namespace Roguelike
                 if (newState.IsKeyDown(Keys.W))
                 {
                     pGP.Y -= 1;
+                    moveCD = 120;
                     moved = true;
                 }
                 else if (newState.IsKeyDown(Keys.A))
                 {
                     pGP.X -= 1;
+                    moveCD = 120;
                     moved = true;
                 }
                 else if (newState.IsKeyDown(Keys.S))
                 {
                     pGP.Y += 1;
+                    moveCD = 120;
                     moved = true;
                 }
                 else if (newState.IsKeyDown(Keys.D))
                 {
                     pGP.X += 1;
+                    moveCD = 120;
                     moved = true;
                 }
 
@@ -406,7 +424,7 @@ namespace Roguelike
                 {
                     for (int j = 0; j < Consts.mapHeight; j++)
                     {
-                        if (FoW[i, j] != 0)
+                        if (FoW[i, j] != 0 || !fMode)
                         {
                             switch (Tiles[i, j])
                             {
@@ -420,18 +438,25 @@ namespace Roguelike
                                 case 3:
                                     spriteBatch.Draw(wall, new Rectangle(1342 + (2 * i), 2 * (j+1), 2, 2), Color.Green);
                                     break;
+
+                                case 11:
+                                case 12:
+                                case 13:
+                                    if(FoW[i,j] == 1)
+                                        spriteBatch.Draw(enemy1, new Rectangle(1342 + (2 * i), 2 * (j + 1), 2, 2), Color.Red);
+                                    break;
                             }
                         }
                     }
                 }
 
-                spriteBatch.Draw(wall, new Rectangle((int)(player.ScreenPosition.X / 10- cPos.X) * tileSize, (int)(player.ScreenPosition.Y / 10 - cPos.Y) * tileSize, tileSize, tileSize), Color.White);
-//                spriteBatch.Draw(wall, new Rectangle(780, 480, tileSize, tileSize), Color.White);
+                spriteBatch.Draw(wall, new Rectangle((int)(player.ScreenPosition.X / 10 - cPos.X) * tileSize, (int)(player.ScreenPosition.Y / 10 - cPos.Y) * tileSize, tileSize, tileSize), Color.White);
+                spriteBatch.Draw(wall, new Rectangle(1342 + (int)(player.ScreenPosition.X / 5), (int)(player.ScreenPosition.Y / 5), 2, 2), Color.White);
+                //                spriteBatch.Draw(wall, new Rectangle(780, 480, tileSize, tileSize), Color.White);
 
 
                 spriteBatch.DrawString(uiText, "Health: " + player.Health, new Vector2(tileSize / 4, graphics.PreferredBackBufferHeight * 0.875f), Color.White);
                 spriteBatch.DrawString(uiText, "Score: " + score, new Vector2(tileSize / 4, graphics.PreferredBackBufferHeight * 0.925f), Color.White);
-
             }
             else if (currentState == gameState.combat)
             {
